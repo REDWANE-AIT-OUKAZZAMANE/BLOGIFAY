@@ -1,9 +1,5 @@
 # Building a Multi-User Blogging App with Nuxt and Supabase
 
-By Nader Dabit https://css-tricks.com/author/dabit/
-
-Aug 19, 2021
-
 https://css-tricks.com/using-nuxt-and-supabase-for-a-multi-user-blogging-app/
 
 https://github.com/dabit3/nuxt-supabase-full-multi-user-blog
